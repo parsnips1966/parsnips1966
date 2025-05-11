@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @parsnips1966
-- 👀 I’m interested in coding(obviously), football, MarioKart Wii, playing and listening to music
-- 🌱 I’m currently learning HTML, CSS, JS, Flask, Pygame
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m an Oxford Physics offer holder who also enjoys coding
+- 🌱 I’m currently learning Pygame, C++
 - 📫 Reach me on Discord: parsnips#6913
 
 <!---
