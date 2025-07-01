@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parsnips1966
 - 👀 I’m an Oxford Physics offer holder who also enjoys coding
-- 🌱 I’m currently learning Pygame, C++
+- 🌱 I’m currently learning C and machine learning in python
 - 📫 Reach me on Discord: parsnips#6913
 
 <!---
